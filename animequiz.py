@@ -10,7 +10,8 @@ questions = {
     "Question 7: In which anime does a character named Natsu Dragneel appear?": "Fairy Tail",
     "Question 8: What is the name of the main character in Sword Art Online?": ["Kirito", "Kazuto Kirigaya"],
     "Question 9: In which anime does a character named Kagome Higurashi appear?": "Inuyasha",
-    "Question 10: What is the name of the main character in One Punch Man?": "Saitama"
+    "Question 10: What is the name of the main character in One Punch Man?": "Saitama",
+    "Question 11: What is the name of the main character of Akame ga kill" : "Tatsumi"
 }
     
 for key, value in questions.items():
